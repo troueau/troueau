@@ -1,1 +1,1 @@
-👋 Hi, I’m @troueau, I'm a Software Engineering student at ISTIC Université Rennes 1.
+👋 Hi, I’m @troueau, I'm a Software Engineering student at ISTIC Université Rennes.
